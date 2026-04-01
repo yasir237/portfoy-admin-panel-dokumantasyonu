@@ -17,10 +17,13 @@ Bu proje, kullanıcının portfolyosunu modern ve profesyonel bir şekilde sergi
 
 - [Resend](https://resend.com/) platformunda kayıt olun.
 - API Keys sekmesine gidin
+  
   ![api keys sekmesi](image.png)
 - Yeni bir api anahtarı oluştur
+  
   ![yeni api anahtar oluşturma](image-1.png)
 - İstediğiniz ismi girerek `Add` buttonuna tıklayarak yeni api anahtarınızı oluşturun
+  
   ![Yeni api anahtar formu](image-2.png)
 - Verilen api anahtarını kopyalayarak biraz sonra oluşturacağımız `.env.local` dosyasına yazılacak.
   ![anahtarı almak](image-3.png)
