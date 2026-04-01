@@ -66,9 +66,7 @@ Bu proje, kullanıcının portfolyosunu modern ve profesyonel bir şekilde sergi
 
 7. GitHub yükleme ekranına dönün ve proje dosyalarını sürükleyip yükleyin.
 
-<video width="600" controls>
-  <source src="proje-yukle.mp4" type="video/mp4">
-</video>
+[🎥 Videoyu indir / izle](./proje-yukle.mp4)
 
 8. **Commit changes** butonuna tıklayın.
 
